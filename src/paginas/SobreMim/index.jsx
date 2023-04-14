@@ -27,7 +27,7 @@ export default function SobreMim() {
       </p>
 
       <p className={styles.paragrafo}>
-        No ensino superior me apaixonei pela área de Front-end e é nisso que venho me dedicando desde então, acabei a faculdade a pouco tempo, mas não parei desde então, estudei com o apoio da Alura mutios cursos de Front-end disponíveis, HTML, CSS, JS e REACT, foram meus principais focos.
+        No ensino superior me apaixonei pela área de Front-end e é nisso que venho me dedicando desde então, acabei a faculdade a pouco tempo, mas não parei desde então, estudei com o apoio da Alura muitos cursos de Front-end disponíveis, HTML, CSS, JS e REACT, foram meus principais focos.
       </p>
 
       
